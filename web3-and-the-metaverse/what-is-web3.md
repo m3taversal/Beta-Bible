@@ -1,0 +1,79 @@
+# What is Web3?
+
+The development and evolution of the internet enhanced our individual and collective abilities, effectively making us super human. Google gives us access to the vast majority of human knowledge, acting as a modern day oracle. We can communicate with almost anyone, anywhere in the world and keep up with our friends, practically in real time through social media. The internet has also enabled wholly new forms of human organization, boosting our collective intelligence. The ability of firms to coordinate far flung offices and remote employees into a cohesive and productive whole exemplifies this. In fact, scientific collaboration and the sharing of research was the original purpose of the internet.
+
+\
+
+
+Despite the benefits to our individual and collective capabilities that the internet has created it has not necessarily improved our lives. The rise of social media has led to the phenomena of fake news and allowed individuals to self-select echo chambers that reinforce their viewpoints increasing the degree of polarization in society. It has also contributed to worsening self-esteem as teenagers today increasingly compare themselves to the idealized lives of social media influencers online rather than their immediate peers. Furthermore, the value creation of the average internet user has been captured by a tiny percentage of entrepreneurs and investors fueling increasing wealth concentration and the hollowing out of the middle class.
+
+\
+
+
+In order to understand how we got here, where we went wrong and how web3 can begin to correct some of the failings of the internet we will break the evolution of the internet down into 3 broad phases.
+
+\
+
+
+#### The Evolution of the Internet - Web 1, Web 2 and Web3
+
+“You know something is profoundly wrong with our economy when Big Tech has a higher take rate than the mafia.” - Ritchie Torres, US Congressman representing the South Bronx
+
+\
+
+
+The evolution of the internet can be broken down into 3 general phases. First came Web 1 - roughly 1990 to 2005 - which was the first era of the modern internet. Web1 primarily focused on data transfer and was built around “open protocols that were decentralized and community-governed.” The modern internet was kicked off by the invention of the World Wide Web and the HTTP protocol for standardizing communication among servers and clients by Tim Berners-Lee and his colleagues at CERN in 1990. These decentralized, open access protocols allowed companies to begin creating websites and led to the development of email, kicking off a period of rapid innovation. During this era of the internet, “most of the value accrued to the edges of the network: users and builders.” However, as companies began to build businesses on the back of this grand global network and the internet became ever more commercialized, the basic nature of the internet changed.
+
+\
+
+
+“As the Web matured, powerful actors - both private and public - began to use their considerable influence to limit access to the internet. In practice, these limitations aren’t (always) malicious, but can create significant challenges to openness when viewed in aggregate” (The Platform Revolution).
+
+\
+
+
+The most successful of the early internet startups, companies like Google, Facebook, and Alibaba began to build proprietary platforms for a combination of reasons including to improve their services, shut out their competitors, capture more of their users’ time and monetize their users’ data. These “innovations” created Web 2, the internet we know today which consists of siloed, centralized services in which most of the value is captured by a handful of large tech companies.
+
+\
+
+
+The disjointed and siloed nature of the web2 internet landscape, imposes friction on users and makes the web as a whole far less functional and cohesive than it could be. Moreover, as social media develops and becomes ever more valuable, the current structure of the internet concentrates user data and economic value within a few tech giants. As these social media and internet giants compete against each other to capture an increasing percentage of users' total internet time, the big data algorithms they employ become ever more addictive to hook users. Thus, while our technological capabilities and understanding of big data and algorithms is rapidly improving, these improvements often make the internet less beneficial or even harmful to its users. While each step in the evolution of web2 seemed logical and desirable, the net result of all this development is a betrayal of the original ethos of the internet which prioritized decentralization, open protocols and community governance.
+
+\
+
+
+The divergence between the original vision of the internet and its current reality has spawned the ongoing movement towards creating a third era for the internet - what many are calling web3. In essence, Web3 is focused on building a new internet architecture focused around decentralization, community governance and incremental ownership. By leveraging emerging technologies like distributed ledger technology and smart contracts, web3 companies endeavor to distribute ownership and governance rights fairly and transparently to the relevant stakeholders. The current, skewed system of value and the distribution of economic rewards within web2 stifles innovation and prevents valuable creatives from being fairly rewarded for their work. If web3 networks can solve the complex problem of how to fairly distribute the economic value of useful creative works and innovations throughout a network of stakeholders it promises to “unlock a new wave of creativity and entrepreneurship.”
+
+\
+
+
+<figure><img src="https://lh4.googleusercontent.com/0t74aJRNbpuSWgeMq9vTLl7eD3wsaQJa4YDRcIhQViQyXrfDnpKucO5Yhb-1gCy8lKj__UM6VM3lqfdaawjzjP5cC7mmK73pqKdOP3JYACkgv5w47I0NlbtWRv4odB1EWwrcgcFCaWy2sYs0T5qmXA" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="https://lh6.googleusercontent.com/cHJcfzgfYzvEiDku0SFsEs11oJXzws_Eh3rTyCvea2kJ0tYD4cO0fno2qWoe9jg4VmhJDIEW6pSXeRMYKDPeACEceu6mRipz0NNr-DzZBxf1MCy7WM0FtcH-nQXK_ailku6QJRReITZw9zeeJc7hEA" alt=""><figcaption></figcaption></figure>
+
+Facebook and Google have great business models. They do not have to create any of their own content, instead they merely extract the value of their user bases content to keep everyone engaged and on the app so that they can sell their attention to advertisers. There is a reason web2 companies have trillion dollar valuations. However, while this strategy is great for the bottom line of Google and Facebook which have extraordinarily high operating margins. It destroys a lot of the potential value of the internet as a whole.
+
+\
+
+
+In their seminal book Why Nations Fail, Daron Acemoglu and James Robinson explain that national success and economic growth primarily depend on how inclusive their political and economic structures are. Inclusive economic institutions distribute the wealth and productivity of society more fairly, creating an economic landscape that is more conducive to inclusive political institutions. Fairer economic incentives lead to more secure property rights increasing the level of creative destruction as innovators and investors know that they will be able to enjoy the spoils of successful innovations. Under inclusive economic institutions, the general public is more likely to invest and use their individual knowledge to address societal pain points generating more creative destruction and creating value. This dynamic creates a “virtuous cycle” whereby inclusive political and economic institutions are mutually self-reinforcing, leading to a wealthier and more democratically empowered popular over time.
+
+\
+
+
+In contrast, extractive political institutions tend to concentrate the wealth of income of society into a handful of political cronies and the increasing concentration of wealth in the hands of elites in turn leads to a further concentration of political power. As wealth and power is concentrated, the ability of the general populace to enforce the rule of law and influence political decision making decreases. As property rights and the rule of law decline, investment and innovation become less attractive as insecure property rights and extractive economic institutions mean the entrepreneur is unlikely to enjoy the economic fruits of his success. Moreover, the power of elites depends on the status quo and the protection of monopolies making creative destruction an inherent threat to their supremacy. Thus while the elites can capture an ever greater share of a country’s productive capacity, the overall economy will suffer from slower growth and ultimately be less valuable than it would be under inclusive economic institutions because the individual economic incentives that aggregate into the invisible hand of the market have been undermined.
+
+\
+
+
+While industries are obviously not countries, the effects of overly extractive economic institutions are the same. The value of the digital feudal overlords like Google, Facebook and Bytedance is created by exploiting their users content, monetizing their attention and selling it to advertisers. This generates an enormous amount of value for these internet platforms, very little of which is shared with the creators of the content that makes their services valuable. The extraordinary profit margins enjoyed by these digital gatekeepers are an indication of just how extractive these economic relationships really are. While the current economic setup creates a lot of value for the digital gatekeepers it inhibits the economic value of the internet and its creative industry as a whole as it disincentivizes many creatives from engaging in creative destruction and producing creative works that generate value and enrich our society.
+
+\
+
+
+![](https://lh4.googleusercontent.com/kggrlz1CCahVf2SXsYqRt2VaMbDGWGHYG4OfQ5zaYBqWuzhGHn\_MSVrL0jcplhy4i4PMRX4bSYoYLZ6V6ghUapf4miL-VEOtYS3KiDbaf8fXOC0fDrKJ6aQulEPI7zytB2Q0GtK6LHBmTKFpt9mWpg)
+
+However the building blocks of web 3 - blockchain technology, smart contracts, social tokens and NFTs - promise to create a fairer, more inclusive ownership model for the internet which will empower entrepreneurs and creatives to innovate rapidly, ramping up the pace of creative destruction.
+
+
+
