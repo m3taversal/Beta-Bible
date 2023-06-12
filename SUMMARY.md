@@ -22,3 +22,5 @@
 * [Books and Publishing](nfts-web3-and-the-transformation-of-the-creative-economy/books-and-publishing.md)
 * [Play and Earn Gaming](nfts-web3-and-the-transformation-of-the-creative-economy/play-and-earn-gaming.md)
 * [Media and Entertainment](nfts-web3-and-the-transformation-of-the-creative-economy/media-and-entertainment.md)
+
+Some minor change. No need to merge me.
