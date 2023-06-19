@@ -2,7 +2,7 @@
 
 The last several years have been defined by disruption. We have experienced a global pandemic, the return of full-scale national wars to Europe and a decline in globalization. We have also seen several structural changes to our economy which make the future much more uncertain and unpredictable.
 
-easy UI ftw
+Hi I'm Cory
 
 The rise of remote working has fundamentally changed the nature of employment enabling more flexibility and choice for high-performing technology and finance professionals. Although some people believe the current economic slowdown and layoffs will allow management to force much of their workforce back into the office, the data tells a different story. The percentage of people working remotely has increased 600% between 2019 and 2022. As economic activity slows, remote working is likely to become more entrenched as it will allow employers to tap into larger labor markets and pay less for talent in less expensive geographies. Remote working is here to stay and companies need different technological and organizational capabilities in order to make it successful. This has resulted in a flood of billions of dollars into technologies that enable remote working. As these investments begin to bear fruit it will become easier and easier to work remotely.
 
