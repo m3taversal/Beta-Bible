@@ -1,4 +1,4 @@
-# Web3, Decentralization and the Metaverse
+# 2.4-Web3, Decentralization and the Metaverse
 
 Now you might be thinking, the metaverse sounds all well and good but what does this have to do with NFTs and cryptocurrency?
 

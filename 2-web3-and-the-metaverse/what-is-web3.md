@@ -1,4 +1,4 @@
-# What is Web3?
+# 2.5-What is Web3?
 
 The development and evolution of the internet enhanced our individual and collective abilities, effectively making us super human. Google gives us access to the vast majority of human knowledge, acting as a modern day oracle. We can communicate with almost anyone, anywhere in the world and keep up with our friends, practically in real time through social media. The internet has also enabled wholly new forms of human organization, boosting our collective intelligence. The ability of firms to coordinate far flung offices and remote employees into a cohesive and productive whole exemplifies this. In fact, scientific collaboration and the sharing of research was the original purpose of the internet.
 

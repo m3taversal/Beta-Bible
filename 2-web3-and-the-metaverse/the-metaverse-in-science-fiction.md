@@ -1,4 +1,4 @@
-# The Metaverse in Science Fiction
+# 2.1-The Metaverse in Science Fiction
 
 Revolutionary technological developments and significant technological trends are often foreseen - and their consequences explored - in science fiction decades before they actually become possible. The concept of the metaverse is no exception. These formative depictions of the metaverse went on to shape the ideas of entrepreneurs and venture capitalists building and investing in the space. As such, it is important to ground our discussion of what the metaverse is by first analyzing the way in which various science fiction authors have described it.
 

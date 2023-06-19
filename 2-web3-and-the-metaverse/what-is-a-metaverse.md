@@ -1,4 +1,4 @@
-# What is a Metaverse?
+# 2.3-What is a Metaverse?
 
 Many people and even some industry experts believe that VR, virtual spaces or multi-player games make a metaverse. This is not the case for a number of reasons which we will explain below.
 
