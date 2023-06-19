@@ -2,19 +2,19 @@
 
 * [The Metaversal Bible](README.md)
 
-## Intro
+## 1-Intro
 
-* [A Metaversal Reality](intro/a-metaversal-reality.md)
-* [The Ethos of the Metaversal Bible](intro/the-ethos-of-the-metaversal-bible.md)
-* [A New Normal](intro/a-new-normal.md)
+* [1.1-A Metaversal Reality](1-intro/a-metaversal-reality.md)
+* [1.2-The Ethos of the Metaversal Bible](1-intro/the-ethos-of-the-metaversal-bible.md)
+* [1.3-A New Normal](1-intro/a-new-normal.md)
 
-## Web3 and the Metaverse
+## 2-Web3 and the Metaverse
 
-* [The Metaverse in Science Fiction](web3-and-the-metaverse/the-metaverse-in-science-fiction.md)
-* [What People Think A Metaverse Is](web3-and-the-metaverse/what-people-think-a-metaverse-is.md)
-* [What is a Metaverse?](web3-and-the-metaverse/what-is-a-metaverse.md)
-* [Web3, Decentralization and the Metaverse](web3-and-the-metaverse/web3-decentralization-and-the-metaverse.md)
-* [What is Web3?](web3-and-the-metaverse/what-is-web3.md)
+* [2.1-The Metaverse in Science Fiction](2-web3-and-the-metaverse/the-metaverse-in-science-fiction.md)
+* [2.2-What People Think A Metaverse Is](2-web3-and-the-metaverse/what-people-think-a-metaverse-is.md)
+* [2.3-What is a Metaverse?](2-web3-and-the-metaverse/what-is-a-metaverse.md)
+* [2.4-Web3, Decentralization and the Metaverse](2-web3-and-the-metaverse/web3-decentralization-and-the-metaverse.md)
+* [2.5-What is Web3?](2-web3-and-the-metaverse/what-is-web3.md)
 
 ## NFTs, Web3 and the Transformation of the Creative Economy
 
