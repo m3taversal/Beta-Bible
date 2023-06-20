@@ -94,3 +94,6 @@ Over the medium to long term, superior technology and economic systems prevail. 
 
 \
 This is why web3 gaming is the future
+
+
+Additionally, web3 gaming will collide with the metaverse and entertainemnt franchises allowing fans and gamers alike to own a piece of their favorite entertainment franchise and help craft how that franchise comes to life in the metaverse. 
