@@ -75,5 +75,7 @@ While industries are obviously not countries, the effects of overly extractive e
 
 However the building blocks of web 3 - blockchain technology, smart contracts, social tokens and NFTs - promise to create a fairer, more inclusive ownership model for the internet which will empower entrepreneurs and creatives to innovate rapidly, ramping up the pace of creative destruction.
 
+\
 
 
+Over time Web3 will create the preconditions for natural selection which will power the ecosystem to new heights. Since there are hundreds of different NFT collections, play to earn games, and DAOs all competing to build value and make good decisions, it is ultimately the web3 organizations that can successfully solve these problems that will be successful and go on to spawn copy cats and competitors that iterate around there success. Thus over time selection will continue to improve the pool of web3 projects by rewarding good projects and killing off bad ones. This will happen much more rapidly in web3 than the traditional economy allowing it to improve faster. 
