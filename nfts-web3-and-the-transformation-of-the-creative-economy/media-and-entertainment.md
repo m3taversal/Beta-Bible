@@ -7,6 +7,8 @@ The film and television industry wield an immense economic influence, generating
 
 The pivotal role stories play in sculpting cultural attitudes and consumer behavior also amplifies the global influence of films and television shows on various ancillary economic activities. These mediums stimulate tourism, inspire advertising, fuel merchandise sales, and forge licensing agreements, crafting opportunities for ancillary industries such as catering, equipment rentals, and post-production services. An all-encompassing study by OlsbergSPI in 2019 estimated the total economic impact of the screen sector at an astounding $414 billion. 
 
+Lo
+
 Despite the importance and value of film and TV, the businesses within the entertainment industry are experiencing a period of enormous disruption. Streamers, studios and key creative talent alike all dislike the new market dynamics and are looking for alternatives that can offer a better distribution of risk and reward within the industry. Web3 technologies offer the opportunity to reinvent traditional content creation business models centered around cultivating a core fan base and investing in multi-purpose virtual assets that can be used in virtual production, games and metaverse experiences. In so doing, integrating NFTs and web3 into entertainment franchises promises to supercharge fan engagement, enable greater ownership for key creative talent and dramatically reduce risk for content buyers. 
 
 In order to understand the value proposition of Film3 let’s first examine the problems entertainment businesses are currently facing. 
