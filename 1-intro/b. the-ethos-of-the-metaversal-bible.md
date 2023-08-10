@@ -35,6 +35,7 @@ The decentralized nature of this book is motivated by practicality just as much 
 But perhaps the most significant advantage of a decentralized, community-written book is that it allows the ideas to become self-evolving, creating a living book that can adapt and change over time. As new insights are gained, new technology is developed, and new challenges emerge, the book can be updated and improved by the community in a collaborative and democratic way. This means that the book will never become outdated or irrelevant, but will remain a valuable resource for the community for years to come. By creating a living book, we can ensure that the narrative around web3, NFTs, and the metaverse remains fresh, relevant, and aligned with the principles of decentralization and community control that underpin these technologies.
 
 **Engineering Intelligence Through Emergence**
+
 Our world gives us countless examples of how complex, adaptive systems can emerge from the interaction of relatively simple components. These phenomena fall under the broad umbrella of emergence which describes how systems can display collective phenomena or behaviors that are not present in their individual components (David Pines).
 
 Emergence allows systems made of simple elements to display high-order intelligence.
